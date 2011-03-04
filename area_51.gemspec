@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Chad Boyd"]
   s.email       = ["hoverlover@gmail.com"]
-  s.homepage    = "https://github.com/hoverlover"
+  s.homepage    = "https://github.com/hoverlover/area_51"
   s.summary     = %q{Gem used for simple path-based access control.}
   s.description = %q{Area51 allows you to define restricted and unrestricted sections of your application by defining paths in your controllers.}
 
