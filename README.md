@@ -5,7 +5,7 @@ or [Alf](http://www.youtube.com/watch?v=J7g3FoMaGF0) here.  What you
 will find is a gem that tries to make the act of defining restricted
 and unrestricted areas of your web app a little easier.
 
-The [RDocs](http://rubydoc.info/gems/area_51/0.0.2/frames) are available
+The [RDocs](http://rubydoc.info/gems/area_51) are available
 if you need them.
 
 ## Why?
